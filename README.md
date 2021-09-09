@@ -1,6 +1,3 @@
-# coding-problems
-coding problems
+# Coding Problems
 
-This repo will be about solving and understanding various coding challenges and problems.
-
-[Two Sum](https://github.com/tggil96/coding-problems/tree/main/two-sum)
+[Javascript](https://github.com/tggil96/coding-problems/tree/main/js)
