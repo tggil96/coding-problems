@@ -12,7 +12,7 @@ const twoSum = (arr, sum) => {
   }
   // loop through each index
   for (let i = 0; i < arr.length; ++i) {
-    // loop through next consecutive index
+    // loop through next indices
     for (let j = i + 1; j < arr.length; ++j) {
       if (arr[i] + arr[j] === sum) {
         return [i, j];
